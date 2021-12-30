@@ -20,5 +20,4 @@
 
 ▪ Summary
 
-![](C:\Users\fromh\Desktop\work\이전 경력\6. 개발_수상이력\프로젝트\6회차_박현주_4망자예측조\6회차_박현주_4망자예측조_page-0001.jpg)
-
+![img (1)](\summary\img (1).jpg)
